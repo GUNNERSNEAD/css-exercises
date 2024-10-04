@@ -1,0 +1,16 @@
+.odd{
+    background-color: rgb(191, 24, 94);
+    font-family: verdana, 'dejavu sans', sans-serif;
+}
+#two {
+    color: navy;
+    font-size: 36px;
+}
+.odd but altered font size {
+    font-size: 24px;
+}
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight:bold;
+}
