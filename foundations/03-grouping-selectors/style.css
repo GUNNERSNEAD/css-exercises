@@ -1,0 +1,11 @@
+.special {
+background-color: black;
+color: aliceblue;
+}
+.different {
+    background-color: yellow;
+}
+.special, .different {
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
